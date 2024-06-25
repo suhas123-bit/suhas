@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SCORECARD SUHAS v/s RUDRA</title>
+    </head>
+    <body bgcolor="black" text="white">
+        <div>
+          <h1 align="center"> Batting Team 1 </h1>
+            <table border="5" align="center" cellpadding="20" cellspacing="25%" frame="box" 
+            rules="cols" width="80%" text="black">
+                <tr bgcolor="darklime"><th>No.</th><th>Player Name</th><th>Score</th><th>S.R</th></tr>
+                <tr bgcolor="darkcyan"><th>  1.   </th><th> Suhas    </th><th>   53* (18)  </th><th> 294 </th></tr>
+                <tr bgcolor="darkcyan"><th>     </th><th>     </th><th>     </th><th>      </th></tr>
+                <tr bgcolor="darkcyan"><th>     </th><th>     </th><th>     </th><th>         </th></tr>
+        </table>
+        </div>
+        <div>
+            <h1 align="center" text="white">Bowling Team 2 </h1>
+            <table border="5" align="center" cellpadding="20" cellspacing="25%" frame="box" 
+            rules="cols" width="80%">
+            <tr bgcolor="darklime"><th>No.</th><th>Bowler</th><th>Overs</th><th>Wickets</th><th>Economy</th></tr>
+            <tr bgcolor="darkcyan"><th> 1.  </th><th> Rudra </th><th>   3.0  </th><th>  0/53  <th>  17.66   </th></tr>
+            <tr bgcolor="darkcyan"><th>   </th><th>       </th><th>     </th><th>         <th>         </th></tr>
+            <tr bgcolor="darkcyan"><th>   </th><th>       </th><th>     </th><th>         <th>         </th></tr>
+        </table>
+        </div>
+        <div>
+            <h1 align="center" text="white"> Batting Team 2 </h1>
+            <table border="5" align="center" cellpadding="20" cellspacing="25%" frame="box" 
+            rules="cols" width="80%" text="black">
+                <tr bgcolor="darklime"><th>No.</th><th>Player Name</th><th>Score</th><th>S.R</th></tr>
+                <tr bgcolor="darkcyan"><th>  1.   </th><th> Rudra    </th><th>   29 (11)  </th><th> 263.33 </th></tr>
+                <tr bgcolor="darkcyan"><th>     </th><th>     </th><th>     </th><th>      </th></tr>
+                <tr bgcolor="darkcyan"><th>     </th><th>     </th><th>     </th><th>         </th></tr>
+    
+        </table>
+        </div>
+        <div>
+            <h1 align="center" text="white">Bowling Team 1 </h1>
+            <table border="5" align="center" cellpadding="20" cellspacing="25%" frame="box" 
+            rules="cols" width="80%">
+            <tr bgcolor="darklime"><th>No.</th><th>Bowler</th><th>Overs</th><th>Wickets</th><th>Economy</th></tr>
+            <tr bgcolor="darkcyan"><th> 1.  </th><th> Suhas </th><th>   1.5  </th><th>  1/29  <th>  15.81  </th></tr>
+            <tr bgcolor="darkcyan"><th>   </th><th>       </th><th>     </th><th>         <th>         </th></tr>
+            <tr bgcolor="darkcyan"><th>   </th><th>       </th><th>     </th><th>         <th>         </th></tr>
+        </table>
+        </div>
+    </body>
+</html>
